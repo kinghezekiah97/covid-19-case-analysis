@@ -32,7 +32,7 @@ The dataset contains global COVID-19 statistics including:
 - Country/region information
 
 Data source:
-(Add your dataset source link here)
+(www.kaggle.com)
 
 ---
 
@@ -44,7 +44,6 @@ Data source:
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn (if forecasting/modeling was used)
 
 ---
 
@@ -79,11 +78,7 @@ Visualizations include:
 - Correlation heatmaps
 - Trend analysis graphs
 
-### 5. Predictive Analysis
-- Historical trend analysis
-- Forecasting future outbreak possibilities
 
----
 
 ## Key Insights
 
@@ -94,7 +89,7 @@ Examples:
 - Increased vaccination rates showed relationships with declining cases.
 - Trends indicate how interventions may affect future outbreaks.
 
-*(Update this section with your actual findings.)*
+
 
 ---
 
